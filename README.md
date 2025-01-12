@@ -1,6 +1,6 @@
 # Hi there, I'm Jonas Deinhardt 👋
 
-I'm a 9th-grade student passionate about technology, coding, and building cool projects! Currently, I'm learning and working with **SvelteKit** and **FastAPI**.
+I'm a student passionate about technology, coding, and building cool projects! Currently, I'm learning and working with **SvelteKit** and **FastAPI**.
 
 ## 🚀 Technologies I'm Learning
 
